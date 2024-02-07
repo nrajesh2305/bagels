@@ -50,7 +50,6 @@ def playGame():
     guess = ""
     initial_counter_guess = 1
     string_random_number = getRandomNumber()
-    print(string_random_number)
     num_guesses_left = 10
     while(guess != string_random_number):
         guess = input("Guess #" + str(initial_counter_guess) + ": ")
