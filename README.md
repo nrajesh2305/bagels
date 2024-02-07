@@ -16,6 +16,7 @@ When I say:        That means:
     Bagels         No digit is correct.
     
 You have 10 guesses to get it.
+![rules](bagels_rules.png)
 
 # Source:
 - The Big Book of Small Python Projects - Al Sweigart
