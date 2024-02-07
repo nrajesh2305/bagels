@@ -2,5 +2,9 @@ from bagels import *
 
 printIntro()
 
-the_random_number = getRandomNumber()
-print(the_random_number)
+guess = ""
+initial_counter_guess = 1
+num_guesses_left = 10
+
+playGame()
+playAgain()
